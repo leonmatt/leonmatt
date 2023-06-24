@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+[<img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonmatt&hide=html,css&theme=dark)](https://github.com/leonmatt/github-readme-stats)
+[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonmatt&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true&theme=dracula)](https://github.com/lenomatt/github-readme-stats)
+![GitHub Streak Graph](https://github-readme-streak-stats.herokuapp.com/?user=leonmatt&theme=highcontrast)
+
+![C++](https://img.shields.io/badge/C%2B%2B-05122A?style=flat&logo=C%2B%2B&logoColor=2C2255)
+
+[linkedin]: https://www.linkedin.com/in/leonm4tt/
 <!--
 **leonmatt/leonmatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
