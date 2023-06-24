@@ -1,25 +1,28 @@
-### Hi there 👋
+<h1 align='center'>
+  Hi there 👋 I'm Matthew
+</h1>
 
-[<img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+<p align='center'>
+  I am a software engineer, financial engineering student, mentor, and lifelong learner
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonmatt&hide=html,css&theme=dark)](https://github.com/leonmatt/github-readme-stats)
-[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonmatt&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true&theme=dracula)](https://github.com/lenomatt/github-readme-stats)
-![GitHub Streak Graph](https://github-readme-streak-stats.herokuapp.com/?user=leonmatt&theme=highcontrast)
+<p align='center'>
+  <a href="https://www.linkedin.com/in/leonm4tt/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/matt_the_quant">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</p>
 
-![C++](https://img.shields.io/badge/C%2B%2B-05122A?style=flat&logo=C%2B%2B&logoColor=2C2255)
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=leonmatt&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
-[linkedin]: https://www.linkedin.com/in/leonm4tt/
-<!--
-**leonmatt/leonmatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonmatt&hide=html,css&theme=dark" width="350"></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=leonmatt&theme=dark" width="350"></a>
+</p>
