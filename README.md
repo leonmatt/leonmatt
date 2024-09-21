@@ -10,13 +10,10 @@
   <a href="https://www.linkedin.com/in/leonm4tt/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/matt_the_quant">
+  <a href="https://instagram.com/
+matt_the_perf_e">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-</p>
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=leonmatt&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
